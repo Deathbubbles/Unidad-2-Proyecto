@@ -1,0 +1,6 @@
+ZEL-001|Zelda: TOTK|129999|30
+DRK-002|Dark Souls 1|34940|10
+ERN-003|Elden Ring: Nightreign|81500|12
+ABC-123|Halo Infinite|89950|20
+MAR-002|Marvel Rivals|9950|4
+POK-003|POKER: El Juego|24999|4
